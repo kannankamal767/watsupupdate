@@ -23,6 +23,7 @@ public class BMW implements Car{
 	public void TheftSafety(){
 		System.out.println("BMW--very safety");
 		System.out.println("car is valid assret");
+		System.out.println("car is valid");
 		
 	}
 
