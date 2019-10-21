@@ -28,4 +28,8 @@ public class BMW implements Car{
 	}
 
 	
+	public void message(){
+	System.out.println("apple");
+	}
+			
 }
